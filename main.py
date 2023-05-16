@@ -44,6 +44,7 @@ def plot():
     st.text(" ")
     st.text(" ")
 
+
     st.subheader("Relationship between Stock Index Price and Unemployment Rate")
     st.text(" ")
     st.text(" ")
@@ -60,6 +61,7 @@ def plot():
     st.text(" ")
 
 plot()
+
 
 e = st.number_input("Enter Economic Growth Rate")
 st.text(" ")
