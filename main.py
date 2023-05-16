@@ -45,7 +45,6 @@ def plot():
     st.text(" ")
     st.text(" ")
 
-
     st.subheader("Relationship between Stock Index Price and Unemployment Rate")
     st.text(" ")
     st.text(" ")
