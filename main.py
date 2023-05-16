@@ -17,6 +17,7 @@ y = df['Stock_Index_Price']
 lr = linear_model.LinearRegression()
 lr.fit(x,y)
 
+
 st.title("Stock Index Prediction using Linear Regression")
 st.text(" ")
 st.text(" ")
